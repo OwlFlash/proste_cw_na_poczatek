@@ -24,3 +24,9 @@ N = float(input())
 K = SPK*(1 + P/12)*12*N#COS TEN WZÓR PRZEKOMBINOWANY
 print("Twoj kapitał( po {} lata przy oprocentowaniu {} % będzie wynosił {}". format(N,P,K))
 
+# enfjowrgergwrgv
+# rgergerg
+# reg
+# erg
+# er
+# ger
